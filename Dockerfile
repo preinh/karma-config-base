@@ -1,6 +1,6 @@
+FROM ubuntu
 MAINTAINER "Marlon Pirchiner" 
 
-FROM ubuntu
 ENV HOME /root
 # ADD . /root/karma
 
