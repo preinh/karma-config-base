@@ -1,0 +1,344 @@
+<http://your.base.uri/sapric-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sapric-peat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sapric peat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sapric-peat> <http://www.w3.org/2004/02/skos/core#notation> "AP"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/clayey-fine-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/clayey-fine-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clayey fine sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clayey-fine-sand> <http://www.w3.org/2004/02/skos/core#notation> "CFS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/clayey-coarse-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clayey coarse sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#notation> "CKS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/clay-loam> <http://www.w3.org/2004/02/skos/core#notation> "CL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clay loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/clay-loam-fine-sandy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clay loam, fine sandy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam-fine-sandy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/clay-loam-fine-sandy> <http://www.w3.org/2004/02/skos/core#notation> "CLFS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/clay-loam-coarse-sandy> <http://www.w3.org/2004/02/skos/core#notation> "CLKS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam-coarse-sandy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clay loam, coarse sandy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam-coarse-sandy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/clay-loam-medium-sandy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clay loam, medium sandy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam-medium-sandy> <http://www.w3.org/2004/02/skos/core#notation> "CLMS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam-medium-sandy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/clay-loam-sandy> <http://www.w3.org/2004/02/skos/core#notation> "CLS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam-sandy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clay loam, sandy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clay-loam-sandy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/clayey-medium-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clayey medium sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clayey-medium-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/clayey-medium-sand> <http://www.w3.org/2004/02/skos/core#notation> "CMS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/clayey-peat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clayey peat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clayey-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/clayey-peat> <http://www.w3.org/2004/02/skos/core#notation> "CP"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/clayey-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clayey sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clayey-sand> <http://www.w3.org/2004/02/skos/core#notation> "CS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clayey-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/fine-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sand> <http://www.w3.org/2004/02/skos/core#notation> "FS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/fine-sandy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-sandy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-clay> <http://www.w3.org/2004/02/skos/core#notation> "FSC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/fine-sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy clay loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#notation> "FSCL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-clay-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/fine-sandy-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "FSHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/fine-sandy-loam> <http://www.w3.org/2004/02/skos/core#notation> "FSL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-sandy-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/fine-sandy-light-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy light clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-light-clay> <http://www.w3.org/2004/02/skos/core#notation> "FSLC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-light-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/fine-sandy-light-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy light medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "FSLMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/fine-sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "FSMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/fine-sandy-medium-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine sandy medium heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "FSMHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/fine-pure-sand> <http://www.w3.org/2004/02/skos/core#notation> "FSS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fine-pure-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/fine-pure-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fine pure sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/granular-peat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Granular peat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/granular-peat> <http://www.w3.org/2004/02/skos/core#notation> "GP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/granular-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/gravel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/gravel> <http://www.w3.org/2004/02/skos/core#notation> "GR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/gravel> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gravel"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "HC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/hemic-peat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hemic peat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/hemic-peat> <http://www.w3.org/2004/02/skos/core#notation> "HP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/hemic-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/fibric-peat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibric peat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fibric-peat> <http://www.w3.org/2004/02/skos/core#notation> "IP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/fibric-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/coarse-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sand> <http://www.w3.org/2004/02/skos/core#notation> "KS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/coarse-sandy-clay> <http://www.w3.org/2004/02/skos/core#notation> "KSC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/coarse-sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#notation> "KSCL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-clay-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy clay loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/coarse-sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "KSHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/coarse-sandy-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-sandy-loam> <http://www.w3.org/2004/02/skos/core#notation> "KSL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/coarse-sandy-light-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-sandy-light-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy light clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-light-clay> <http://www.w3.org/2004/02/skos/core#notation> "KSLC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/coarse-sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "KSLMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-light-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy light medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/coarse-sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "KSMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/coarse-sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse sandy medium heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-sandy-medium-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "KSMHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/coarse-pure-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coarse pure sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/coarse-pure-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/coarse-pure-sand> <http://www.w3.org/2004/02/skos/core#notation> "KSS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/loam> <http://www.w3.org/2004/02/skos/core#notation> "L"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/light-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/light-clay> <http://www.w3.org/2004/02/skos/core#notation> "LC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/light-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Light clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/loamy-fine-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/loamy-fine-sand> <http://www.w3.org/2004/02/skos/core#notation> "LFS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/loamy-fine-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loamy fine sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/loam-fine-sandy> <http://www.w3.org/2004/02/skos/core#notation> "LFSY"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/loam-fine-sandy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/loam-fine-sandy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loam fine sandy"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/loamy-coarse-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/loamy-coarse-sand> <http://www.w3.org/2004/02/skos/core#notation> "LKS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/loamy-coarse-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loamy coarse sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/light-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "LMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/light-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Light medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/light-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/loamy-medium-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loamy medium sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/loamy-medium-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/loamy-medium-sand> <http://www.w3.org/2004/02/skos/core#notation> "LMS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/loamy-peat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loamy peat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/loamy-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/loamy-peat> <http://www.w3.org/2004/02/skos/core#notation> "LP"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/loamy-sand> <http://www.w3.org/2004/02/skos/core#notation> "LS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/loamy-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/loamy-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loamy sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "MC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "MHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/medium-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sand> <http://www.w3.org/2004/02/skos/core#notation> "MS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/medium-sandy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/medium-sandy-clay> <http://www.w3.org/2004/02/skos/core#notation> "MSC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/medium-sandy-clay-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/medium-sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy clay loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#notation> "MSCL"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/medium-sandy-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/medium-sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "MSHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/medium-sandy-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-loam> <http://www.w3.org/2004/02/skos/core#notation> "MSL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/medium-sandy-light-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy light clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-light-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/medium-sandy-light-clay> <http://www.w3.org/2004/02/skos/core#notation> "MSLC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/medium-sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "MSLMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-light-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/medium-sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy light medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/medium-sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "MSMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/medium-sandy-medium-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/medium-sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "MSMHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium sandy medium heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/medium-pure-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/medium-pure-sand> <http://www.w3.org/2004/02/skos/core#notation> "MSS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/medium-pure-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medium pure sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sand> <http://www.w3.org/2004/02/skos/core#notation> "S"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-clay> <http://www.w3.org/2004/02/skos/core#notation> "SC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#notation> "SCL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-clay-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy clay loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-clay-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/sandy-clay-loam-fine-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy clay loam, fine sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-clay-loam-fine-sand> <http://www.w3.org/2004/02/skos/core#notation> "SCLFS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-clay-loam-fine-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/sandy-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "SHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-loam> <http://www.w3.org/2004/02/skos/core#notation> "SL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-light-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-light-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy light clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-light-clay> <http://www.w3.org/2004/02/skos/core#notation> "SLC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "SLMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-light-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-light-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy light medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "SMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-medium-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "SMHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy medium heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/sandy-peat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/sandy-peat> <http://www.w3.org/2004/02/skos/core#notation> "SP"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/sandy-peat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sandy peat"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/pure-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pure sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/pure-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/pure-sand> <http://www.w3.org/2004/02/skos/core#notation> "SS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/stones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/stones> <http://www.w3.org/2004/02/skos/core#notation> "ST"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/stones> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stones"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/very-weak-clayey-fine-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Very weak clayey fine sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/very-weak-clayey-fine-sand> <http://www.w3.org/2004/02/skos/core#notation> "VWCFS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/very-weak-clayey-fine-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/very-weak-clayey-coarse-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/very-weak-clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Very weak clayey coarse sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/very-weak-clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#notation> "VWCKS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/very-weak-clayey-medium-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/very-weak-clayey-medium-sand> <http://www.w3.org/2004/02/skos/core#notation> "VWCMS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/very-weak-clayey-medium-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Very weak clayey medium sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/very-weak-clayey-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Very weak clayey sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/very-weak-clayey-sand> <http://www.w3.org/2004/02/skos/core#notation> "VWCS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/very-weak-clayey-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/weak-clayey-fine-sand> <http://www.w3.org/2004/02/skos/core#notation> "WCFS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/weak-clayey-fine-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/weak-clayey-fine-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weak clayey fine sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/weak-clayey-coarse-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/weak-clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weak clayey coarse sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/weak-clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#notation> "WCKS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/weak-clayey-medium-sand> <http://www.w3.org/2004/02/skos/core#notation> "WCMS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/weak-clayey-medium-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weak clayey medium sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/weak-clayey-medium-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/weak-clayey-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weak clayey sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/weak-clayey-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/weak-clayey-sand> <http://www.w3.org/2004/02/skos/core#notation> "WCS"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/silty-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-clay> <http://www.w3.org/2004/02/skos/core#notation> "ZC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/silty-clay-loam> <http://www.w3.org/2004/02/skos/core#notation> "ZCL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-clay-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty clay loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-clay-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/silty-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "ZHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/silty-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/silty-loam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/silty-loam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty loam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-loam> <http://www.w3.org/2004/02/skos/core#notation> "ZL"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/silty-light-clay> <http://www.w3.org/2004/02/skos/core#notation> "ZLC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-light-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty light clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-light-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+
+<http://your.base.uri/silty-light-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "ZLMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-light-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/silty-light-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty light medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/silty-medium-clay> <http://www.w3.org/2004/02/skos/core#notation> "ZMC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-medium-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/silty-medium-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty medium clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+<http://your.base.uri/silty-medium-heavy-clay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/silty-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silty medium heavy clay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/silty-medium-heavy-clay> <http://www.w3.org/2004/02/skos/core#notation> "ZMHC"^^<http://www.w3.org/2001/XMLSchema#string> .
+
