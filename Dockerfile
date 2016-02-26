@@ -22,3 +22,6 @@ RUN mkdir --parents $HOME/karma/preloaded_ontologies && \
 EXPOSE 8080
 
 CMD ["/opt/karma-config-base/launch_karma.sh"]
+
+# ENTRYPOINT ["/opt/karma-config-base/launch_karma.sh"]
+# CMD ["/bin/bash"]
