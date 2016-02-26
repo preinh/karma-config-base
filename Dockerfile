@@ -16,20 +16,9 @@ RUN cd /opt/Web-Karma && \
 RUN cd /opt && \
 	git clone https://github.com/preinh/karma-config-base.git
 
-RUN mkdir --parents $HOME/karma/preloaded_ontologies 
-
-RUN cp -r /opt/karma-config-base/preloaded_ontologies/* $HOME/karma/preloaded_ontologies 
+RUN mkdir --parents $HOME/karma/preloaded_ontologies && \
+	cp -r /opt/karma-config-base/preloaded_ontologies/* $HOME/karma/preloaded_ontologies 
 
 EXPOSE 8080
 
-#ENTRYPOINT ["bash"]
-CMD ["/opt/karma-config-base/lauch_karma.sh"]
-# ENTRYPOINT ["cd /opt/Web-Karma/karma-web && /bin/bash"]
-# CMD ["mvn jetty:run"]
-
-
-# TODO: 
-
-# 	- add main ontologies (DC, SKOS, ... to the repo)
-# 	- set up preload_ontologies from the Dockerfile
-# 	- include test some test files (CSV, XLS, ...)
+CMD ["/opt/karma-config-base/launch_karma.sh"]
