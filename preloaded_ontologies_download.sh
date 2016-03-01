@@ -22,7 +22,6 @@ mv dcelements.rdf $PRELOAD_DIR
 wget "http://dublincore.org/2012/06/14/dcterms.rdf"
 mv dcterms.rdf $PRELOAD_DIR
 
-
 # PROV
 wget "http://www.w3.org/ns/prov-o"
 mv prov-o $PRELOAD_DIR/prov-o.ttl
@@ -41,3 +40,8 @@ mv osg-quantity-1.1.ttl $PRELOAD_DIR
 wget -O observable_properties-no_meta.rdf \
 	 "http://environment.data.gov.au/def/op?_format=rdf"
 mv observable_properties-no_meta.rdf $PRELOAD_DIR
+
+# registryVocab
+wget -O registryVocab.ttl \
+	 "https://raw.githubusercontent.com/UKGovLD/registry-core/master/src/main/vocabs/registryVocab.ttl"
+mv registryVocab.ttl $PRELOAD_DIR

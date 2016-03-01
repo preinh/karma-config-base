@@ -30,3 +30,9 @@ DockerFile
 The Dockerfile describe an Ubuntu instance of Karma running over Jetty in the port 8080.
 
 The Karma install, compilation and service are made by Java and Maven.
+
+
+More
+----
+
+See also the documentation for the [karma registry pipeline](./karma_registry_pipeline.md)
