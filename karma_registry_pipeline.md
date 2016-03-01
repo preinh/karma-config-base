@@ -5,11 +5,11 @@ Registering Vocabularies: Karma Integration Tool
 
   - [Introduction](#Introduction)
   - [Installation](#Installation)
-  - [Workflow](#Workflow)
+  - [HowTo](#HowTo)
     - [Importing](#Importing)
     - [Settings](#Settings)
     - [Modeling](#Modeling)
-    - [Exporting](#Exporting)
+    - [Exporting/Publishing](#Exporting)
 
 
 # Introduction <a id=Introduction />
@@ -31,17 +31,62 @@ As initially proposed, the extraction, transforming and loading (ETL) process wa
 
 Data was extracted from the databases (RDBMS) into CSV files which could be imported and easily handled by spreadsheet softwares for transforming, cleaning, and include URIs. An intermediate software such as [RDF123](http://ebiquity.umbc.edu/project/html/id/82/RDF123) was used to perform the concept modeling/alignment. If was the case, the initial RDF should be edited _by hand_. Finally the standard (proprietary) RDF tool TopBraid is used to generate the deliverable RDF for publish.
 
-The proposal of this pipeline is to replace potentially  all these intermediate tools (green box) for Karma. It allows users to connect and import data directly from multiple database and file sources, perform many transformations, make a visual model using preloaded ontologies, save/document the models and export the data into many formats including RDF (continuous red box).
+The proposal of this pipeline is to replace potentially all these intermediate tools (green box) for Karma. It allows users to connect and import data directly from multiple database and file sources, perform many transformations, make a visual model using preloaded ontologies, save/document the models and export the data into many formats including RDF (continuous red box).
 
 
 # Installation <a id=Installation />
 
-# Workflow <a id=Workflow />
+Docker
+
+
+
+# HowTo <a id=HowTo />
+
+[```http://localhost:8080```](http://localhost:8080)
+
+
 
 ## Importing <a id=Importing />
 
+![proposed pipeline](docs/database_import_table.png)
+
+![proposed pipeline](docs/database_import_sql.png)
+
+![proposed pipeline](docs/file_import.png)
+
+![proposed pipeline](docs/file_import_csv.png)
+
+
+
 ## Settings <a id=Settings />
+
+![proposed pipeline](docs/settings_baseURI.png)
+
+![proposed pipeline](docs/data_operations.png)
+
+![proposed pipeline](docs/semantic_type.png)
+
+![proposed pipeline](docs/transform_python.png)
+
 
 ## Modeling <a id=Modeling />
 
-## Exporting <a id=Exporting />
+![proposed pipeline](docs/setting_semantic_type.png)
+
+![proposed pipeline](docs/modelling.png)
+
+
+## Exporting / Publishing <a id=Exporting />
+
+![proposed pipeline](docs/publishing.png)
+
+![proposed pipeline](docs/publishing_context.png)
+
+![proposed pipeline](docs/publishing_download.png)
+
+
+```
+<http://your.base.uri/clayey-coarse-sand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://your.base.uri/clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clayey coarse sand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://your.base.uri/clayey-coarse-sand> <http://www.w3.org/2004/02/skos/core#notation> "CKS"^^<http://www.w3.org/2001/XMLSchema#string> .
+```
